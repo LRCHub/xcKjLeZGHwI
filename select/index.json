@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "愛言葉Ⅳ",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-16T11:59:34.331156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛言葉Ⅳ - Love Words IV",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_愛言葉IV_-_Love_Words_IV_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛言葉Ⅳ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_愛言葉IV_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛言葉Ⅳ",
+      "artist": "DECO_27",
+      "has_synced": true,
+      "path": "select/03_愛言葉IV_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛言葉Ⅳ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_愛言葉IV_DECO_27.txt"
+    }
+  ]
+}
